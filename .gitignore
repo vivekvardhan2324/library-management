@@ -1,0 +1,6 @@
+/target/
+.github/modernize/
+.DS_Store
+.idea/
+.vscode/
+*.iml
